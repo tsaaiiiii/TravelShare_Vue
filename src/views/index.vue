@@ -1,3 +1,3 @@
 <template>
-  <RouterView />
+  <div>首頁</div>
 </template>
